@@ -1,4 +1,4 @@
-# Blockstack Contact Manager
+# Blockstack Contacts
 
 A demo app for Blockstack collections using the contacts collection type
 

@@ -7,7 +7,7 @@ export default class Signin extends Component {
 
     return (
       <div className="panel-landing" id="section-1">
-        <h1 className="landing-heading">Blockstack Contact Manager</h1>
+        <h1 className="landing-heading">Blockstack Contacts</h1>
         <p className="lead">
           <button
             className="btn btn-primary btn-lg"
